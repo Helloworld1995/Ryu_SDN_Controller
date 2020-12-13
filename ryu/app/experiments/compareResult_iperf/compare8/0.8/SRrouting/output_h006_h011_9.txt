@@ -1,0 +1,7 @@
+------------------------------------------------------------
+Client connecting to 10.6.0.1, TCP port 5001
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[  3] local 10.3.0.2 port 35528 connected with 10.6.0.1 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-60.1 sec   290 MBytes  40.4 Mbits/sec

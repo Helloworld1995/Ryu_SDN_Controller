@@ -1,0 +1,34 @@
+PING 10.6.0.2 (10.6.0.2) 56(84) bytes of data.
+64 bytes from 10.6.0.2: icmp_seq=1 ttl=64 time=0.249 ms
+64 bytes from 10.6.0.2: icmp_seq=2 ttl=64 time=0.044 ms
+64 bytes from 10.6.0.2: icmp_seq=3 ttl=64 time=0.812 ms
+64 bytes from 10.6.0.2: icmp_seq=5 ttl=64 time=0.512 ms
+64 bytes from 10.6.0.2: icmp_seq=6 ttl=64 time=4.40 ms
+64 bytes from 10.6.0.2: icmp_seq=7 ttl=64 time=0.632 ms
+64 bytes from 10.6.0.2: icmp_seq=8 ttl=64 time=2.19 ms
+64 bytes from 10.6.0.2: icmp_seq=9 ttl=64 time=0.161 ms
+64 bytes from 10.6.0.2: icmp_seq=10 ttl=64 time=1.54 ms
+64 bytes from 10.6.0.2: icmp_seq=11 ttl=64 time=0.713 ms
+64 bytes from 10.6.0.2: icmp_seq=12 ttl=64 time=1.00 ms
+64 bytes from 10.6.0.2: icmp_seq=13 ttl=64 time=1.06 ms
+64 bytes from 10.6.0.2: icmp_seq=14 ttl=64 time=0.163 ms
+64 bytes from 10.6.0.2: icmp_seq=15 ttl=64 time=0.025 ms
+64 bytes from 10.6.0.2: icmp_seq=16 ttl=64 time=0.092 ms
+64 bytes from 10.6.0.2: icmp_seq=17 ttl=64 time=1.46 ms
+64 bytes from 10.6.0.2: icmp_seq=18 ttl=64 time=0.584 ms
+64 bytes from 10.6.0.2: icmp_seq=19 ttl=64 time=0.169 ms
+64 bytes from 10.6.0.2: icmp_seq=20 ttl=64 time=1.24 ms
+64 bytes from 10.6.0.2: icmp_seq=21 ttl=64 time=0.169 ms
+64 bytes from 10.6.0.2: icmp_seq=22 ttl=64 time=0.256 ms
+64 bytes from 10.6.0.2: icmp_seq=23 ttl=64 time=0.175 ms
+64 bytes from 10.6.0.2: icmp_seq=24 ttl=64 time=2.27 ms
+64 bytes from 10.6.0.2: icmp_seq=25 ttl=64 time=0.203 ms
+64 bytes from 10.6.0.2: icmp_seq=26 ttl=64 time=1.67 ms
+64 bytes from 10.6.0.2: icmp_seq=27 ttl=64 time=1.39 ms
+64 bytes from 10.6.0.2: icmp_seq=28 ttl=64 time=0.115 ms
+64 bytes from 10.6.0.2: icmp_seq=29 ttl=64 time=1.97 ms
+64 bytes from 10.6.0.2: icmp_seq=30 ttl=64 time=1.71 ms
+
+--- 10.6.0.2 ping statistics ---
+30 packets transmitted, 29 received, 3% packet loss, time 29332ms
+rtt min/avg/max/mdev = 0.025/0.932/4.403/0.956 ms

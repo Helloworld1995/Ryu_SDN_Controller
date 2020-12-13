@@ -1,0 +1,35 @@
+PING 10.2.0.1 (10.2.0.1) 56(84) bytes of data.
+From 10.2.0.2 icmp_seq=1 Destination Host Unreachable
+From 10.2.0.2 icmp_seq=2 Destination Host Unreachable
+From 10.2.0.2 icmp_seq=3 Destination Host Unreachable
+From 10.2.0.2 icmp_seq=4 Destination Host Unreachable
+From 10.2.0.2 icmp_seq=5 Destination Host Unreachable
+From 10.2.0.2 icmp_seq=6 Destination Host Unreachable
+From 10.2.0.2 icmp_seq=7 Destination Host Unreachable
+From 10.2.0.2 icmp_seq=8 Destination Host Unreachable
+From 10.2.0.2 icmp_seq=9 Destination Host Unreachable
+From 10.2.0.2 icmp_seq=10 Destination Host Unreachable
+From 10.2.0.2 icmp_seq=11 Destination Host Unreachable
+From 10.2.0.2 icmp_seq=12 Destination Host Unreachable
+From 10.2.0.2 icmp_seq=13 Destination Host Unreachable
+From 10.2.0.2 icmp_seq=14 Destination Host Unreachable
+From 10.2.0.2 icmp_seq=15 Destination Host Unreachable
+From 10.2.0.2 icmp_seq=16 Destination Host Unreachable
+From 10.2.0.2 icmp_seq=17 Destination Host Unreachable
+From 10.2.0.2 icmp_seq=18 Destination Host Unreachable
+From 10.2.0.2 icmp_seq=19 Destination Host Unreachable
+From 10.2.0.2 icmp_seq=20 Destination Host Unreachable
+From 10.2.0.2 icmp_seq=21 Destination Host Unreachable
+64 bytes from 10.2.0.1: icmp_seq=22 ttl=64 time=1790 ms
+64 bytes from 10.2.0.1: icmp_seq=23 ttl=64 time=777 ms
+64 bytes from 10.2.0.1: icmp_seq=24 ttl=64 time=0.060 ms
+64 bytes from 10.2.0.1: icmp_seq=25 ttl=64 time=0.244 ms
+64 bytes from 10.2.0.1: icmp_seq=26 ttl=64 time=0.424 ms
+64 bytes from 10.2.0.1: icmp_seq=27 ttl=64 time=0.081 ms
+64 bytes from 10.2.0.1: icmp_seq=28 ttl=64 time=0.122 ms
+64 bytes from 10.2.0.1: icmp_seq=29 ttl=64 time=0.481 ms
+64 bytes from 10.2.0.1: icmp_seq=30 ttl=64 time=0.245 ms
+
+--- 10.2.0.1 ping statistics ---
+30 packets transmitted, 9 received, +21 errors, 70% packet loss, time 29435ms
+rtt min/avg/max/mdev = 0.060/285.552/1790.960/584.803 ms, pipe 4

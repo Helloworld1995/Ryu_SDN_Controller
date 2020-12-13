@@ -1,0 +1,5 @@
+PING 10.3.0.1 (10.3.0.1) 56(84) bytes of data.
+
+--- 10.3.0.1 ping statistics ---
+2 packets transmitted, 1 received, 50% packet loss, time 1009ms
+rtt min/avg/max/mdev = 0.541/0.541/0.541/0.000 ms

@@ -1,0 +1,29 @@
+PING 10.7.0.1 (10.7.0.1) 56(84) bytes of data.
+From 10.2.0.2 icmp_seq=1 Destination Host Unreachable
+From 10.2.0.2 icmp_seq=2 Destination Host Unreachable
+From 10.2.0.2 icmp_seq=3 Destination Host Unreachable
+From 10.2.0.2 icmp_seq=4 Destination Host Unreachable
+64 bytes from 10.7.0.1: icmp_seq=5 ttl=64 time=166 ms
+64 bytes from 10.7.0.1: icmp_seq=6 ttl=64 time=2.60 ms
+64 bytes from 10.7.0.1: icmp_seq=8 ttl=64 time=2.80 ms
+64 bytes from 10.7.0.1: icmp_seq=9 ttl=64 time=3.69 ms
+64 bytes from 10.7.0.1: icmp_seq=10 ttl=64 time=3.80 ms
+64 bytes from 10.7.0.1: icmp_seq=11 ttl=64 time=3.52 ms
+64 bytes from 10.7.0.1: icmp_seq=12 ttl=64 time=5.20 ms
+64 bytes from 10.7.0.1: icmp_seq=13 ttl=64 time=4.27 ms
+64 bytes from 10.7.0.1: icmp_seq=14 ttl=64 time=5.00 ms
+64 bytes from 10.7.0.1: icmp_seq=15 ttl=64 time=3.79 ms
+64 bytes from 10.7.0.1: icmp_seq=17 ttl=64 time=3.06 ms
+64 bytes from 10.7.0.1: icmp_seq=18 ttl=64 time=6.08 ms
+64 bytes from 10.7.0.1: icmp_seq=19 ttl=64 time=4.27 ms
+64 bytes from 10.7.0.1: icmp_seq=20 ttl=64 time=4.21 ms
+64 bytes from 10.7.0.1: icmp_seq=21 ttl=64 time=8.85 ms
+64 bytes from 10.7.0.1: icmp_seq=22 ttl=64 time=4.57 ms
+64 bytes from 10.7.0.1: icmp_seq=24 ttl=64 time=4.17 ms
+64 bytes from 10.7.0.1: icmp_seq=28 ttl=64 time=3.03 ms
+64 bytes from 10.7.0.1: icmp_seq=29 ttl=64 time=1.80 ms
+64 bytes from 10.7.0.1: icmp_seq=30 ttl=64 time=2.58 ms
+
+--- 10.7.0.1 ping statistics ---
+30 packets transmitted, 20 received, +4 errors, 33% packet loss, time 29204ms
+rtt min/avg/max/mdev = 1.807/12.195/166.516/35.434 ms, pipe 4
